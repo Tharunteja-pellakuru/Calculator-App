@@ -23,7 +23,7 @@ index.js - The JavaScript file responsible for handling button clicks and perfor
 Press the number buttons to input values.
 Use the operator buttons (+, -, *, /) to choose operations.
 Press the = button to calculate the result.
-Use the C button to clear the display.
+Use the C button to clear the display. 
 
 **Example**
 markdown
